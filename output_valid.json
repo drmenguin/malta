@@ -1,0 +1,1456 @@
+[{
+    "Town" : "Il-Belt Valletta, Malta",
+    "Latitude" : "35.8989085",
+    "Longitude" : "14.5145528",
+    "GoogleAddress" : "Valletta, Malta"
+}, {
+    "Town" : "L-Imdina, Malta",
+    "Latitude" : "35.888093",
+    "Longitude" : "14.4068357",
+    "GoogleAddress" : "Mdina, Malta"
+}, {
+    "Town" : "Il-Birgu, Malta",
+    "Latitude" : "35.8879214",
+    "Longitude" : "14.522562",
+    "GoogleAddress" : "Birgu, Malta"
+}, {
+    "Town" : "L-Isla, Malta",
+    "Latitude" : "35.8873041",
+    "Longitude" : "14.5167371",
+    "GoogleAddress" : "Senglea, Malta"
+}, {
+    "Town" : "Bormla, Malta",
+    "Latitude" : "35.8806753",
+    "Longitude" : "14.5218338",
+    "GoogleAddress" : "Cospicua, Malta"
+}, {
+    "Town" : "Ħal Qormi, Malta",
+    "Latitude" : "35.8764388",
+    "Longitude" : "14.4694186",
+    "GoogleAddress" : "Qormi, Malta"
+}, {
+    "Town" : "Ħaż-Żebbuġ, Malta",
+    "Latitude" : "35.8764648",
+    "Longitude" : "14.439084",
+    "GoogleAddress" : "Haz-Zebbug, Malta"
+}, {
+    "Town" : "Ħaż-Żabbar, Malta",
+    "Latitude" : "35.8724715",
+    "Longitude" : "14.5451354",
+    "GoogleAddress" : "Ħaż-Żabbar, Malta"
+}, {
+    "Town" : "Is-Siġġiewi, Malta",
+    "Latitude" : "35.8463742",
+    "Longitude" : "14.4315746",
+    "GoogleAddress" : "Siggiewi, Malta"
+}, {
+    "Town" : "Iż-Żejtun, Malta",
+    "Latitude" : "35.8548714",
+    "Longitude" : "14.5363969",
+    "GoogleAddress" : "Żejtun, Malta"
+}, {
+    "Town" : "Ħ'Attard, Malta",
+    "Latitude" : "35.8904967",
+    "Longitude" : "14.4199322",
+    "GoogleAddress" : "Attard, Malta"
+}, {
+    "Town" : "Ħal Balzan, Malta",
+    "Latitude" : "35.8957414",
+    "Longitude" : "14.4534065",
+    "GoogleAddress" : "Balzan, Malta"
+}, {
+    "Town" : "Birkirkara, Malta",
+    "Latitude" : "35.8954706",
+    "Longitude" : "14.4665072",
+    "GoogleAddress" : "Birkirkara, Malta"
+}, {
+    "Town" : "Birżebbuġa, Malta",
+    "Latitude" : "35.8135989",
+    "Longitude" : "14.5247463",
+    "GoogleAddress" : "Birżebbuġa, Malta"
+}, {
+    "Town" : "Ħad-Dingli, Malta",
+    "Latitude" : "35.8627309",
+    "Longitude" : "14.3850107",
+    "GoogleAddress" : "Ħad-Dingli, Malta"
+}, {
+    "Town" : "Il-Fgura, Malta",
+    "Latitude" : "35.8738269",
+    "Longitude" : "14.5232901",
+    "GoogleAddress" : "Fgura, Malta"
+}, {
+    "Town" : "Il-Furjana, Malta",
+    "Latitude" : "35.8923386",
+    "Longitude" : "14.502904",
+    "GoogleAddress" : "Floriana, Malta"
+}, {
+    "Town" : "Il-Gudja, Malta",
+    "Latitude" : "35.8469803",
+    "Longitude" : "14.502904",
+    "GoogleAddress" : "Gudja, Malta"
+}, {
+    "Town" : "Il-Gżira, Malta",
+    "Latitude" : "35.905897",
+    "Longitude" : "14.4953338",
+    "GoogleAddress" : "Gzira, Malta"
+}, {
+    "Town" : "Ħal Għargħur, Malta",
+    "Latitude" : "35.9220569",
+    "Longitude" : "14.4563176",
+    "GoogleAddress" : "Ħal Għargħur, Malta"
+}, {
+    "Town" : "Ħal Għaxaq, Malta",
+    "Latitude" : "35.8440359",
+    "Longitude" : "14.516009",
+    "GoogleAddress" : "Ħal Għaxaq, Malta"
+}, {
+    "Town" : "Il-Ħamrun, Malta",
+    "Latitude" : "35.8861237",
+    "Longitude" : "14.4883442",
+    "GoogleAddress" : "Hamrun, Malta"
+}, {
+    "Town" : "L-Iklin, Malta",
+    "Latitude" : "35.9098774",
+    "Longitude" : "14.4577732",
+    "GoogleAddress" : "Iklin, Malta"
+}, {
+    "Town" : "Il-Kalkara, Malta",
+    "Latitude" : "35.8914242",
+    "Longitude" : "14.5320278",
+    "GoogleAddress" : "Kalkara, Malta"
+}, {
+    "Town" : "Ħal Kirkop, Malta",
+    "Latitude" : "35.8437862",
+    "Longitude" : "14.4854324",
+    "GoogleAddress" : "Hal Kirkop, Malta"
+}, {
+    "Town" : "Ħal Lija, Malta",
+    "Latitude" : "35.9013458",
+    "Longitude" : "14.440307",
+    "GoogleAddress" : "Lija, Malta"
+}, {
+    "Town" : "Ħal Luqa, Malta",
+    "Latitude" : "35.8582865",
+    "Longitude" : "14.4868883",
+    "GoogleAddress" : "Luqa, Malta"
+}, {
+    "Town" : "Il-Marsa, Malta",
+    "Latitude" : "35.8735822",
+    "Longitude" : "14.492712",
+    "GoogleAddress" : "Marsa, Malta"
+}, {
+    "Town" : "Marsaskala, Malta",
+    "Latitude" : "35.860364",
+    "Longitude" : "14.5567876",
+    "GoogleAddress" : "Marsaskala, Malta"
+}, {
+    "Town" : "Marsaxlokk, Malta",
+    "Latitude" : "35.8411699",
+    "Longitude" : "14.5393097",
+    "GoogleAddress" : "Marsaxlokk, Malta"
+}, {
+    "Town" : "Il-Mellieħa, Malta",
+    "Latitude" : "35.9523529",
+    "Longitude" : "14.3500975",
+    "GoogleAddress" : "Mellieha, Malta"
+}, {
+    "Town" : "L-Imġarr, Malta",
+    "Latitude" : "35.9189327",
+    "Longitude" : "14.3617343",
+    "GoogleAddress" : "Mgarr, Malta"
+}, {
+    "Town" : "Il-Mosta, Malta",
+    "Latitude" : "35.9141504",
+    "Longitude" : "14.4228427",
+    "GoogleAddress" : "Mosta, Malta"
+}, {
+    "Town" : "L-Imqabba, Malta",
+    "Latitude" : "35.8444143",
+    "Longitude" : "14.4694186",
+    "GoogleAddress" : "Mqabba, Malta"
+}, {
+    "Town" : "L-Imsida, Malta",
+    "Latitude" : "35.8956388",
+    "Longitude" : "14.4868883",
+    "GoogleAddress" : "Msida, Malta"
+}, {
+    "Town" : "In-Naxxar, Malta",
+    "Latitude" : "35.9317518",
+    "Longitude" : "14.4315746",
+    "GoogleAddress" : "Naxxar, Malta"
+}, {
+    "Town" : "Raħal Ġdid, Malta",
+    "Latitude" : "35.8821077",
+    "Longitude" : "14.5101844",
+    "GoogleAddress" : "Paola, Malta"
+}, {
+    "Town" : "Pembroke, Malta",
+    "Latitude" : "35.9290703",
+    "Longitude" : "14.4752416",
+    "GoogleAddress" : "Pembroke, Malta"
+}, {
+    "Town" : "Tal-Pietà, Malta",
+    "Latitude" : "35.8934116",
+    "Longitude" : "14.4941679",
+    "GoogleAddress" : "Pieta, Malta"
+}, {
+    "Town" : "Il-Qrendi, Malta",
+    "Latitude" : "35.8328488",
+    "Longitude" : "14.4548621",
+    "GoogleAddress" : "Qrendi, Malta"
+}, {
+    "Town" : "Ir-Rabat, Malta",
+    "Latitude" : "35.8854994",
+    "Longitude" : "14.373372",
+    "GoogleAddress" : "Rabat, Malta"
+}, {
+    "Town" : "Ħal Safi, Malta",
+    "Latitude" : "35.8362202",
+    "Longitude" : "14.492712",
+    "GoogleAddress" : "Ħal Safi, Malta"
+}, {
+    "Town" : "San Ġiljan, Malta",
+    "Latitude" : "35.9181297",
+    "Longitude" : "14.4883442",
+    "GoogleAddress" : "St Julian's, Malta"
+}, {
+    "Town" : "San Ġwann, Malta",
+    "Latitude" : "35.9077365",
+    "Longitude" : "14.4752416",
+    "GoogleAddress" : "San Gwann, Malta"
+}, {
+    "Town" : "San Pawl il-Bahar, Malta",
+    "Latitude" : "35.936017",
+    "Longitude" : "14.3966503",
+    "GoogleAddress" : "St Paul's Bay, Malta"
+}, {
+    "Town" : "Santa Luċija, Malta",
+    "Latitude" : "35.856142",
+    "Longitude" : "14.50436",
+    "GoogleAddress" : "Santa Luċija, Malta"
+}, {
+    "Town" : "Santa Venera, Malta",
+    "Latitude" : "35.8902201",
+    "Longitude" : "14.4766974",
+    "GoogleAddress" : "Santa Venera, Malta"
+}, {
+    "Town" : "Tas-Sliema, Malta",
+    "Latitude" : "35.9110081",
+    "Longitude" : "14.502904",
+    "GoogleAddress" : "Sliema, Malta"
+}, {
+    "Town" : "Is-Swieqi, Malta",
+    "Latitude" : "35.9191182",
+    "Longitude" : "14.4694186",
+    "GoogleAddress" : "Swieqi, Malta"
+}, {
+    "Town" : "Ta' Xbiex, Malta",
+    "Latitude" : "35.89914479999999",
+    "Longitude" : "14.4963519",
+    "GoogleAddress" : "Ta' Xbiex, Malta"
+}, {
+    "Town" : "Ħal Tarxien, Malta",
+    "Latitude" : "35.8672552",
+    "Longitude" : "14.5116405",
+    "GoogleAddress" : "Tarxien, Malta"
+}, {
+    "Town" : "Ix-Xgħajra, Malta",
+    "Latitude" : "35.8868282",
+    "Longitude" : "14.5472391",
+    "GoogleAddress" : "Xgħajra, Malta"
+}, {
+    "Town" : "Iż-Żurrieq, Malta",
+    "Latitude" : "35.8216306",
+    "Longitude" : "14.4810648",
+    "GoogleAddress" : "Zurrieq, Malta"
+}, {
+    "Town" : "L-Imtarfa, Malta",
+    "Latitude" : "35.8895125",
+    "Longitude" : "14.3951953",
+    "GoogleAddress" : "Imtarfa, Malta"
+}, {
+    "Town" : "Baħar iċ-Ċagħaq, Malta",
+    "Latitude" : "35.9372576",
+    "Longitude" : "14.4519509",
+    "GoogleAddress" : "Baħar iċ-Ċagħaq, In-Naxxar, Malta"
+}, {
+    "Town" : "Baħrija, Malta",
+    "Latitude" : "35.8950089",
+    "Longitude" : "14.3465022",
+    "GoogleAddress" : "Rabat, Malta"
+}, {
+    "Town" : "Bubaqra, Malta",
+    "Latitude" : "35.8258138",
+    "Longitude" : "14.479609",
+    "GoogleAddress" : "Bubaqra, Zurrieq, Malta"
+}, {
+    "Town" : "Burmarrad, Malta",
+    "Latitude" : "35.9350414",
+    "Longitude" : "14.4155666",
+    "GoogleAddress" : "Burmarrad, St Paul's Bay, Malta"
+}, {
+    "Town" : "Fleur de Lys, Malta",
+    "Latitude" : "35.8920114",
+    "Longitude" : "14.4718674",
+    "GoogleAddress" : "252 Triq Fleur - De - Lys, Birkirkara, Malta"
+}, {
+    "Town" : "Ħal Farruġ, Malta",
+    "Latitude" : "35.8612273",
+    "Longitude" : "14.4737858",
+    "GoogleAddress" : "Ħal Farruġ, Luqa, Malta"
+}, {
+    "Town" : "Madliena, Malta",
+    "Latitude" : "35.9308656",
+    "Longitude" : "14.4619582",
+    "GoogleAddress" : "Swieqi, Malta"
+}, {
+    "Town" : "Paceville, Malta",
+    "Latitude" : "35.9231053",
+    "Longitude" : "14.491256",
+    "GoogleAddress" : "Paceville, St Julian's, Malta"
+}, {
+    "Town" : "Kappara, Malta",
+    "Latitude" : "35.9078199",
+    "Longitude" : "14.4854324",
+    "GoogleAddress" : "Kappara, San Gwann, Malta"
+}, {
+    "Town" : "San Pietru, Żabbar, Malta",
+    "Latitude" : "35.8802094",
+    "Longitude" : "14.4720966",
+    "GoogleAddress" : "San Pietru, Ħal Qormi, Malta"
+}, {
+    "Town" : "Swatar, Malta",
+    "Latitude" : "35.8978656",
+    "Longitude" : "14.479609",
+    "GoogleAddress" : "Is-Swatar, Msida, Malta"
+}, {
+    "Town" : "Tal-Virtù, Rabat, Malta",
+    "Latitude" : "35.8727915",
+    "Longitude" : "14.4010154",
+    "GoogleAddress" : "Tal-Virtù, Rabat, Malta"
+}, {
+    "Town" : "L-Abatija, Imġarr, Malta",
+    "Latitude" : "35.9189327",
+    "Longitude" : "14.3617343",
+    "GoogleAddress" : "Mgarr, Malta"
+}, {
+    "Town" : "Bulebel iż-Żgħir, Żabbar, Malta",
+    "Latitude" : "35.8686405",
+    "Longitude" : "14.5302074",
+    "GoogleAddress" : "Bulebel iż-Żgħir, Ħaż-Żabbar, Malta"
+}, {
+    "Town" : "Albert Town, Marsa, Malta",
+    "Latitude" : "35.8762916",
+    "Longitude" : "14.4978079",
+    "GoogleAddress" : "Albert Town, Marsa, Malta"
+}, {
+    "Town" : "L-Armier, Mellieħa, Malta",
+    "Latitude" : "35.9901703",
+    "Longitude" : "14.3624616",
+    "GoogleAddress" : "L-Armier, Mellieha, Malta"
+}, {
+    "Town" : "Il-Ballut, Imġarr, Malta",
+    "Latitude" : "35.8914993",
+    "Longitude" : "14.4318823",
+    "GoogleAddress" : "Il-Ballut, Ħ'Attard, Malta"
+}, {
+    "Town" : "Il-Balluta, San Ġiljan, Malta",
+    "Latitude" : "35.91417070000001",
+    "Longitude" : "14.49344",
+    "GoogleAddress" : "Il-Balluta, St Julian's, Malta"
+}, {
+    "Town" : "Baqqari, Zurrieq, Malta",
+    "Latitude" : "35.8216306",
+    "Longitude" : "14.4810648",
+    "GoogleAddress" : "Zurrieq, Malta"
+}, {
+    "Town" : "Belt-is-Sebħ, Floriana, Malta",
+    "Latitude" : "35.8954044",
+    "Longitude" : "14.5050881",
+    "GoogleAddress" : "Belt is-Sebħ, Floriana, Malta"
+}, {
+    "Town" : "Bengħajsa, Birżebbuġa, Malta",
+    "Latitude" : "35.8105709",
+    "Longitude" : "14.5276589",
+    "GoogleAddress" : "Bengħajsa, Birżebbuġa, Malta"
+}, {
+    "Town" : "Il-Bidnija, Malta",
+    "Latitude" : "35.9276614",
+    "Longitude" : "14.3995603",
+    "GoogleAddress" : "Bidnija, Mosta, Malta"
+}, {
+    "Town" : "Bieb ir-Ruwa, Rabat, Malta",
+    "Latitude" : "35.889354",
+    "Longitude" : "14.367792",
+    "GoogleAddress" : "Rabat, Malta"
+}, {
+    "Town" : "Binġemma, Imġarr, Malta",
+    "Latitude" : "35.9172231",
+    "Longitude" : "14.3710455",
+    "GoogleAddress" : "Bingemma, L-Imġarr, Malta"
+}, {
+    "Town" : "Birguma, Naxxar, Malta",
+    "Latitude" : "35.9253936",
+    "Longitude" : "14.4454011",
+    "GoogleAddress" : "Birguma, Naxxar, Malta"
+}, {
+    "Town" : "Bir id-Deheb, Żejtun, Malta",
+    "Latitude" : "35.8502112",
+    "Longitude" : "14.5254745",
+    "GoogleAddress" : "Bir id-Deheb, Iż-Żejtun, Malta"
+}, {
+    "Town" : "Il-Blata l-Bajda, Ħamrun, Malta",
+    "Latitude" : "35.887719",
+    "Longitude" : "14.4970799",
+    "GoogleAddress" : "Il-Blata l-Bajda, Floriana, Malta"
+}, {
+    "Town" : "Il-Bokka taċ-Ċarcara, Imġarr, Malta",
+    "Latitude" : "35.9203957",
+    "Longitude" : "14.3551885",
+    "GoogleAddress" : "Il-Bokka taċ-Ċarċara, L-Imġarr, Malta"
+}, {
+    "Town" : "Buġibba, San Pawl il-Baħar, Malta",
+    "Latitude" : "35.9490844",
+    "Longitude" : "14.4097459",
+    "GoogleAddress" : "Bugibba, St Paul's Bay, Malta"
+}, {
+    "Town" : "Bulebel, Żejtun, Malta",
+    "Latitude" : "35.8631548",
+    "Longitude" : "14.5232901",
+    "GoogleAddress" : "Bulebel, Żejtun, Malta"
+}, {
+    "Town" : "Buqana, Rabat, Malta",
+    "Latitude" : "35.8923834",
+    "Longitude" : "14.400465",
+    "GoogleAddress" : "It Torri, L-Imtarfa, Malta"
+}, {
+    "Town" : "Il-Buskett, Ħad-Dingli, Malta",
+    "Latitude" : "35.8600378",
+    "Longitude" : "14.3864673",
+    "GoogleAddress" : "Il-Buskett, Ħad-Dingli, Malta"
+}, {
+    "Town" : "Iċ-Ċanta, Rabat, Malta",
+    "Latitude" : "35.8854994",
+    "Longitude" : "14.373372",
+    "GoogleAddress" : "Rabat, Malta"
+}, {
+    "Town" : "Iċ-Ċirkewwa, Malta",
+    "Latitude" : "35.9855354",
+    "Longitude" : "14.3348255",
+    "GoogleAddress" : "Cirkewwa, Mellieha, Malta"
+}, {
+    "Town" : "Delimara, Malta",
+    "Latitude" : "35.8351932",
+    "Longitude" : "14.555331",
+    "GoogleAddress" : "Delimara, Marsaxlokk, Malta"
+}, {
+    "Town" : "Id-Dwejra, Rabat, Malta",
+    "Latitude" : "35.9032078",
+    "Longitude" : "14.3922853",
+    "GoogleAddress" : "Id-Dwejra, Rabat, Malta"
+}, {
+    "Town" : "Il-Fawwara, Siġġiewi, Malta",
+    "Latitude" : "35.8396947",
+    "Longitude" : "14.4097459",
+    "GoogleAddress" : "Il-Fawwara, Is-Siġġiewi, Malta"
+}, {
+    "Town" : "Fomm ir-Riħ, Imġarr, Malta",
+    "Latitude" : "35.9088239",
+    "Longitude" : "14.3406432",
+    "GoogleAddress" : "Fomm ir-Riħ, Mgarr, Malta"
+}, {
+    "Town" : "Fuq San Pawl, Bormla, Malta",
+    "Latitude" : "35.8823309",
+    "Longitude" : "14.5192587",
+    "GoogleAddress" : "San Pawl, Bormla, Malta"
+}, {
+    "Town" : "Ġebel Ciantar, Siġġiewi, Malta",
+    "Latitude" : "35.8437836",
+    "Longitude" : "14.3981053",
+    "GoogleAddress" : "Ġebel Ciantar, Is-Siġġiewi, Malta"
+}, {
+    "Town" : "Ġebel l-Abjad, Malta",
+    "Latitude" : "35.9095071",
+    "Longitude" : "14.4623938",
+    "GoogleAddress" : "IKL2902, Triq Hal-Gharghur, Iklin, Malta"
+}, {
+    "Town" : "Ġebel San Martin, Żejtun, Malta",
+    "Latitude" : "35.86034739999999",
+    "Longitude" : "14.5298434",
+    "GoogleAddress" : "Ġebel San Martin, Iż-Żejtun, Malta"
+}, {
+    "Town" : "Ġnejna Bay, Imġarr, Malta",
+    "Latitude" : "35.9209421",
+    "Longitude" : "14.3424613",
+    "GoogleAddress" : "Gnejna Bay, Malta"
+}, {
+    "Town" : "Il-Girgenti, Siġġiewi, Malta",
+    "Latitude" : "35.8493082",
+    "Longitude" : "14.418477",
+    "GoogleAddress" : "Il-Girgenti, Siggiewi, Malta"
+}, {
+    "Town" : "L-Għadira, Mellieħa, Malta",
+    "Latitude" : "35.9671945",
+    "Longitude" : "14.3486429",
+    "GoogleAddress" : "Għadira, Mellieha, Malta"
+}, {
+    "Town" : "Għajn Dwieli, Malta",
+    "Latitude" : "35.87717070000001",
+    "Longitude" : "14.5123686",
+    "GoogleAddress" : "Għajn Dwieli, Raħal Ġdid, Malta"
+}, {
+    "Town" : "Għajn Tajba, Rabat, Malta",
+    "Latitude" : "35.8854994",
+    "Longitude" : "14.373372",
+    "GoogleAddress" : "Rabat, Malta"
+}, {
+    "Town" : "Għajn Tuffieħa, Malta",
+    "Latitude" : "35.9321743",
+    "Longitude" : "14.351552",
+    "GoogleAddress" : "Għajn Tuffieħa, Mellieha, Malta"
+}, {
+    "Town" : "L-Għemieri, Rabat, Malta",
+    "Latitude" : "35.8854994",
+    "Longitude" : "14.373372",
+    "GoogleAddress" : "Rabat, Malta"
+}, {
+    "Town" : "Għar Lapsi, Siġġiewi, Malta",
+    "Latitude" : "35.827267",
+    "Longitude" : "14.4247528",
+    "GoogleAddress" : "Għar Lapsi, Malta"
+}, {
+    "Town" : "Ħaġar Qim, Qrendi, Malta",
+    "Latitude" : "35.8277061",
+    "Longitude" : "14.4417664",
+    "GoogleAddress" : "Triq Hagar Qim, Il-Qrendi QRD 2501, Malta"
+}, {
+    "Town" : "Ħal Dmikki, Ħal Għaxaq, Malta",
+    "Latitude" : "35.8472133",
+    "Longitude" : "14.5200136",
+    "GoogleAddress" : "Ħal Dmikki, Ħal Għaxaq, Malta"
+}, {
+    "Town" : "Ħal Dragu, Burmarrad, Malta",
+    "Latitude" : "35.9350414",
+    "Longitude" : "14.4155666",
+    "GoogleAddress" : "Burmarrad, St Paul's Bay, Malta"
+}, {
+    "Town" : "Ħal Far, Malta",
+    "Latitude" : "35.818058",
+    "Longitude" : "14.5101844",
+    "GoogleAddress" : "Ħal Far, Birżebbuġa, Malta"
+}, {
+    "Town" : "Ħal Tmiem, Żejtun, Malta",
+    "Latitude" : "35.8547511",
+    "Longitude" : "14.5454995",
+    "GoogleAddress" : "Ħal Tmiem, Iż-Żejtun, Malta"
+}, {
+    "Town" : "Ħas-Saptan, Ħal Għaxaq, Malta",
+    "Latitude" : "35.8371844",
+    "Longitude" : "14.5174652",
+    "GoogleAddress" : "Ħas-Saptan, Ħal Għaxaq, Malta"
+}, {
+    "Town" : "Kalafrana, Birżebbuġa, Malta",
+    "Latitude" : "35.8159914",
+    "Longitude" : "14.5378533",
+    "GoogleAddress" : "Kalafrana, Birżebbuġa, Malta"
+}, {
+    "Town" : "Kordin, Paola, Malta",
+    "Latitude" : "35.8809528",
+    "Longitude" : "14.5087283",
+    "GoogleAddress" : "Kordin, Paola, Malta"
+}, {
+    "Town" : "Il-Kunċizzjoni, Rabat, Malta",
+    "Latitude" : "35.8609646",
+    "Longitude" : "14.3824445",
+    "GoogleAddress" : "Il-Kunċizzjoni, Ħad-Dingli, Malta"
+}, {
+    "Town" : "L-Aħrax, Mellieha, Malta",
+    "Latitude" : "35.9824816",
+    "Longitude" : "14.3544612",
+    "GoogleAddress" : "L-Aħrax, Mellieha, Malta"
+}, {
+    "Town" : "L-Erba' Qaddisin, Ħal Qormi, Malta",
+    "Latitude" : "35.8798853",
+    "Longitude" : "14.4820349",
+    "GoogleAddress" : "l-, Erba' Qaddisin, Ħal Qormi, Malta"
+}, {
+    "Town" : "Lippija, Imġarr, Malta",
+    "Latitude" : "35.9223878",
+    "Longitude" : "14.3460862",
+    "GoogleAddress" : "Ta' Lippija Tower, Mgarr, Malta"
+}, {
+    "Town" : "Il-Lunzjata, Rabat, Malta",
+    "Latitude" : "35.8766281",
+    "Longitude" : "14.39291",
+    "GoogleAddress" : "Rabat, Malta"
+}, {
+    "Town" : "Il-Magħtab, In-Naxxar, Malta",
+    "Latitude" : "35.9308324",
+    "Longitude" : "14.4465703",
+    "GoogleAddress" : "Il-Maghtab, Naxxar, Malta"
+}, {
+    "Town" : "Il-Manikata, Il-Mellieħa, Malta",
+    "Latitude" : "35.9407539",
+    "Longitude" : "14.3522793",
+    "GoogleAddress" : "il-Manikata, Il-Mellieħa, Malta"
+}, {
+    "Town" : "Manoel Island, Il-Gżira, Malta",
+    "Latitude" : "35.9037636",
+    "Longitude" : "14.502176",
+    "GoogleAddress" : "Manoel Island, Gzira, Malta"
+}, {
+    "Town" : "Il-Marfa, Il-Mellieħa, Malta",
+    "Latitude" : "35.9862086",
+    "Longitude" : "14.3457339",
+    "GoogleAddress" : "Marfa, Mellieha, Malta"
+}, {
+    "Town" : "Il-Marnisi, Birżebbuġa, Malta",
+    "Latitude" : "35.8460692",
+    "Longitude" : "14.5320278",
+    "GoogleAddress" : "Il-Marnisi, Marsaxlokk, Malta"
+}, {
+    "Town" : "L-Imġiebaħ, Il-Mellieħa, Malta",
+    "Latitude" : "35.9697222",
+    "Longitude" : "14.3858333",
+    "GoogleAddress" : "L'Imgiebah, Malta"
+}, {
+    "Town" : "Misraħ Kola, Ħ'Attard, Malta",
+    "Latitude" : "35.8909865",
+    "Longitude" : "14.4323023",
+    "GoogleAddress" : "Misrah Kola, Attard, Malta"
+}, {
+    "Town" : "Il-Miżieb, Il-Mellieħa, Malta",
+    "Latitude" : "35.9474685",
+    "Longitude" : "14.3573704",
+    "GoogleAddress" : "Il-Miżieb, Malta"
+}, {
+    "Town" : "L-Imrieħel, Birkirkara, Malta",
+    "Latitude" : "35.8886231",
+    "Longitude" : "14.4679629",
+    "GoogleAddress" : "L-Imrieħel, Birkirkara, Malta"
+}, {
+    "Town" : "L-Imselliet, L-Imġarr, Malta",
+    "Latitude" : "35.9161913",
+    "Longitude" : "14.3951953",
+    "GoogleAddress" : "L-Imselliet, St Paul's Bay, Malta"
+}, {
+    "Town" : "L-Imtaħleb, Rabat, Malta",
+    "Latitude" : "35.8854994",
+    "Longitude" : "14.373372",
+    "GoogleAddress" : "Rabat, Malta"
+}, {
+    "Town" : "In-Nadur, Malta",
+    "Latitude" : "36.0447019",
+    "Longitude" : "14.2919273",
+    "GoogleAddress" : "Nadur, Malta"
+}, {
+    "Town" : "In-Nigret, Iż-Żurrieq, Malta",
+    "Latitude" : "35.8232792",
+    "Longitude" : "14.4730579",
+    "GoogleAddress" : "In-Nigret, Zurrieq, Malta"
+}, {
+    "Town" : "Il-Pwales, San Pawl il-Baħar, Malta",
+    "Latitude" : "35.9440567",
+    "Longitude" : "14.3799187",
+    "GoogleAddress" : "Il-Pwales, St Paul's Bay, Malta"
+}, {
+    "Town" : "Il-Qajjenza, Birżebbuġa, Malta",
+    "Latitude" : "35.8334815",
+    "Longitude" : "14.5312997",
+    "GoogleAddress" : "Il-Qajjenza, Birżebbuġa, Malta"
+}, {
+    "Town" : "Il-Qawra, San Pawl il-Baħar, Malta",
+    "Latitude" : "35.9564031",
+    "Longitude" : "14.4232671",
+    "GoogleAddress" : "Il- Qawra, San Pawl il-Baħar, Malta"
+}, {
+    "Town" : "Raba' Nemel, Rabat, Malta",
+    "Latitude" : "35.8854994",
+    "Longitude" : "14.373372",
+    "GoogleAddress" : "Rabat, Malta"
+}, {
+    "Town" : "Ras il-Wied, L-Imġarr, Malta",
+    "Latitude" : "35.9164572",
+    "Longitude" : "14.3375528",
+    "GoogleAddress" : "Ras il Pellegrin, ras il pellegrin, Malta"
+}, {
+    "Town" : "Ricasoli, Il-Kalkara, Malta",
+    "Latitude" : "35.897264",
+    "Longitude" : "14.526449",
+    "GoogleAddress" : "Fort Rikasoli, St. Rocco Street, Il-Kalkara KKR 9062, Malta"
+}, {
+    "Town" : "Is-Salina, In-Naxxar, Malta",
+    "Latitude" : "35.9442845",
+    "Longitude" : "14.4272086",
+    "GoogleAddress" : "Is-Salina, Naxxar, Malta"
+}, {
+    "Town" : "San Ġwann t'Għuxa, Bormla, Malta",
+    "Latitude" : "35.8776094",
+    "Longitude" : "14.5196495",
+    "GoogleAddress" : "San Ġwann t'Għuxa, Cospicua, Malta"
+}, {
+    "Town" : "San Lawrenz tal-Għolja, Is-Siġġiewi, Malta",
+    "Latitude" : "35.8476606",
+    "Longitude" : "14.418244",
+    "GoogleAddress" : "Triq San Lawrenz ta' L-Gholja, Siggiewi, Malta"
+}, {
+    "Town" : "San Martin, San Pawl il-Baħar, Malta",
+    "Latitude" : "35.93456219999999",
+    "Longitude" : "14.3805552",
+    "GoogleAddress" : "San Martin, San Pawl il-Baħar, Malta"
+}, {
+    "Town" : "San Niklaw, Il-Qrendi, Malta",
+    "Latitude" : "35.8372222",
+    "Longitude" : "14.4477778",
+    "GoogleAddress" : "San Niklaw Reservoir, Qrendi, Malta"
+}, {
+    "Town" : "San Pawl tat-Tarġa, In-Naxxar, Malta",
+    "Latitude" : "35.9215281",
+    "Longitude" : "14.4388515",
+    "GoogleAddress" : "San Pawl tat-Tarġa, Naxxar, Malta"
+}, {
+    "Town" : "Sant' Anton, Ħ'Attard, Malta",
+    "Latitude" : "35.8964431",
+    "Longitude" : "14.4463108",
+    "GoogleAddress" : "24 G.Portelli, Ħ'Attard, Malta"
+}, {
+    "Town" : "Santa Katerina, Rabat, Malta",
+    "Latitude" : "35.8774602",
+    "Longitude" : "14.4025121",
+    "GoogleAddress" : "Santa Katerina, Ir-Rabat, Malta"
+}, {
+    "Town" : "Santa Margarita, Il-Mosta, Malta",
+    "Latitude" : "35.9148579",
+    "Longitude" : "14.4288237",
+    "GoogleAddress" : "13 Mons.Mikiel Ang Mifsud, Il-Mosta, Malta"
+}, {
+    "Town" : "Santa Marija Estate, Il-Mellieħa, Malta",
+    "Latitude" : "35.9620504",
+    "Longitude" : "14.3690078",
+    "GoogleAddress" : "Santa Maria Estate, Mellieha, Malta"
+}, {
+    "Town" : "Is-Santi, L-Imġarr, Malta",
+    "Latitude" : "35.9109035",
+    "Longitude" : "14.3558964",
+    "GoogleAddress" : "Triq IS-Santi, Mgarr, Malta"
+}, {
+    "Town" : "Is-Saqqajja, Rabat, Malta",
+    "Latitude" : "35.8830486",
+    "Longitude" : "14.403136",
+    "GoogleAddress" : "Is-Saqqajja, Malta"
+}, {
+    "Town" : "Is-Sgħajtar, Il-Mosta, Malta",
+    "Latitude" : "35.9105269",
+    "Longitude" : "14.4333938",
+    "GoogleAddress" : "Is-Sgħajtar, Mosta, Malta"
+}, {
+    "Town" : "L-Iskrivit, L-Imġarr, Malta",
+    "Latitude" : "35.9189327",
+    "Longitude" : "14.3617343",
+    "GoogleAddress" : "Mgarr, Malta"
+}, {
+    "Town" : "Il-Bajja ta' San Ġorġ, San Ġiljan, Malta",
+    "Latitude" : "35.9258157",
+    "Longitude" : "14.4878437",
+    "GoogleAddress" : "St George's Bay, St Julian's, Malta"
+}, {
+    "Town" : "Il-Bajja ta' San Tumas, Marsaskala, Malta",
+    "Latitude" : "35.851859",
+    "Longitude" : "14.5662556",
+    "GoogleAddress" : "St Thomas Bay, Malta"
+}, {
+    "Town" : "Ta' Barkat, Ix-Xgħajra, Malta",
+    "Latitude" : "35.881366",
+    "Longitude" : "14.5544279",
+    "GoogleAddress" : "Triq San Leonardu, Ix-Xgħajra, Malta"
+}, {
+    "Town" : "Ta' Brija, Is-Siġġiewi, Malta",
+    "Latitude" : "35.8569413",
+    "Longitude" : "14.4205234",
+    "GoogleAddress" : "Triq Ta' Bur Il-Kbir, Is-Siġġiewi, Malta"
+}, {
+    "Town" : "Ta' Ganza, Iż-Żejtun, Malta",
+    "Latitude" : "35.8555681",
+    "Longitude" : "14.5402199",
+    "GoogleAddress" : "Ta' Ganza, Żejtun, Malta"
+}, {
+    "Town" : "Ta' Giorni, San Giljan, Malta",
+    "Latitude" : "35.9137311",
+    "Longitude" : "14.4861603",
+    "GoogleAddress" : "Ta' Giorni, St Julian's, Malta"
+}, {
+    "Town" : "Ta' Ġawhar, Malta",
+    "Latitude" : "35.8328938",
+    "Longitude" : "14.499633",
+    "GoogleAddress" : "Ħal Safi, Malta"
+}, {
+    "Town" : "Ta' Ħemsija, Malta",
+    "Latitude" : "35.8899882",
+    "Longitude" : "14.414119",
+    "GoogleAddress" : "Hemsija, Ħ'Attard, Malta"
+}, {
+    "Town" : "Ta' Kandja, Is-Siġġiewi, Malta",
+    "Latitude" : "35.8477091",
+    "Longitude" : "14.4534065",
+    "GoogleAddress" : "Ta' Kandja, Is-Siġġiewi, Malta"
+}, {
+    "Town" : "Ta' Landrijiet, Rabat, Malta",
+    "Latitude" : "35.883762",
+    "Longitude" : "14.364315",
+    "GoogleAddress" : "Wied il-busbies, Malta"
+}, {
+    "Town" : "Ta' Laurenti, Rabat, Malta",
+    "Latitude" : "35.8854994",
+    "Longitude" : "14.373372",
+    "GoogleAddress" : "Rabat, Malta"
+}, {
+    "Town" : "Ta' Loretu, Il-Gudja, Malta",
+    "Latitude" : "35.8416384",
+    "Longitude" : "14.5006496",
+    "GoogleAddress" : "Gudja, Malta"
+}, {
+    "Town" : "Ta' Mlit, Il-Mosta, Malta",
+    "Latitude" : "35.9025391",
+    "Longitude" : "14.4337575",
+    "GoogleAddress" : "Ta'Mlit, Il-Mosta, Malta"
+}, {
+    "Town" : "Ta' Mrejnu, L-Imġarr, Malta",
+    "Latitude" : "35.9279619",
+    "Longitude" : "14.3697351",
+    "GoogleAddress" : "Ta' Mrejnu, Mgarr, Malta"
+}, {
+    "Town" : "Ta' Paris, Birkirkara, Malta",
+    "Latitude" : "35.8985374",
+    "Longitude" : "14.4686907",
+    "GoogleAddress" : "Ta' Paris, Birkirkara, Malta"
+}, {
+    "Town" : "Ta' Pascarella, Ħal Qormi, Malta",
+    "Latitude" : "35.8753475",
+    "Longitude" : "14.466286",
+    "GoogleAddress" : "Qormi, Malta"
+}, {
+    "Town" : "Ta' Pennellu, Il-Mellieħa, Malta",
+    "Latitude" : "35.9556922",
+    "Longitude" : "14.361007",
+    "GoogleAddress" : "Ta' Pennellu, Il-Mellieħa, Malta"
+}, {
+    "Town" : "Ta' Qali, Attard, Malta",
+    "Latitude" : "35.8919504",
+    "Longitude" : "14.4220925",
+    "GoogleAddress" : "Ta' Qali, Attard, Malta"
+}, {
+    "Town" : "Ta' Tewma, Mgarr, Malta",
+    "Latitude" : "35.9200658",
+    "Longitude" : "14.3606433",
+    "GoogleAddress" : "Ta' Tewma, L-Imġarr, Malta"
+}, {
+    "Town" : "Ta' Żokkrija, Mosta, Malta",
+    "Latitude" : "35.9127721",
+    "Longitude" : "14.4177494",
+    "GoogleAddress" : "Ta' Żokkrija, Il-Mosta, Malta"
+}, {
+    "Town" : "Ta' Żwejt, San Gwann, Malta",
+    "Latitude" : "35.9088285",
+    "Longitude" : "14.4690546",
+    "GoogleAddress" : "Ta' Żwejt, San Gwann, Malta"
+}, {
+    "Town" : "Tal-Bebbux, Zurrieq, Malta",
+    "Latitude" : "35.8325126",
+    "Longitude" : "14.4712382",
+    "GoogleAddress" : "Tal-Bebbux, Zurrieq, Malta"
+}, {
+    "Town" : "Tal-Blajjiet, Marsaskala, Malta",
+    "Latitude" : "35.860364",
+    "Longitude" : "14.5567876",
+    "GoogleAddress" : "Marsaskala, Malta"
+}, {
+    "Town" : "Tal-Boxxla, Malta",
+    "Latitude" : "35.9480121",
+    "Longitude" : "14.4219753",
+    "GoogleAddress" : "Boxxla, San Pawl il-Baħar, Malta"
+}, {
+    "Town" : "Tal-Bujjar, Marsaskala, Malta",
+    "Latitude" : "35.860364",
+    "Longitude" : "14.5567876",
+    "GoogleAddress" : "Marsaskala, Malta"
+}, {
+    "Town" : "Tal-Ferħa, Gharghur, Malta",
+    "Latitude" : "35.9220569",
+    "Longitude" : "14.4563176",
+    "GoogleAddress" : "Ħal Għargħur, Malta"
+}, {
+    "Town" : "Tal-Fuklar, Attard, Malta",
+    "Latitude" : "35.8948104",
+    "Longitude" : "14.4337576",
+    "GoogleAddress" : "Tal-Fuklar, Attard, Malta"
+}, {
+    "Town" : "Tal-Ibraġ, Swieqi, Malta",
+    "Latitude" : "35.9204934",
+    "Longitude" : "14.4745137",
+    "GoogleAddress" : "Tal-Ibraġ, Is-Swieqi, Malta"
+}, {
+    "Town" : "Tal-Għolja, Siggiewi, Malta",
+    "Latitude" : "35.8501618",
+    "Longitude" : "14.4173491",
+    "GoogleAddress" : "Moghdija tal-Gholja, Siggiewi, Malta"
+}, {
+    "Town" : "Tal-Ħandaq, Qormi, Malta",
+    "Latitude" : "35.86958970000001",
+    "Longitude" : "14.4708743",
+    "GoogleAddress" : "Tal-Ħandaq, Qormi, Malta"
+, {
+    "Town" : "Tal-Kanuni, Malta",
+    "Latitude" : "35.8852745",
+    "Longitude" : "14.3902848",
+    "GoogleAddress" : "Tal-Kanuni, Ir-Rabat, Malta"
+}, {
+    "Town" : "Tal-Karwija, Malta",
+    "Latitude" : "35.8381333",
+    "Longitude" : "14.4963098",
+    "GoogleAddress" : "Ħal Safi, Malta"
+}, {
+    "Town" : "Tal-Landier, Malta",
+    "Latitude" : "35.8693892",
+    "Longitude" : "14.4673871",
+    "GoogleAddress" : "Triq Prof Carmelo Coleiro, Ħal Qormi, Malta"
+}, {
+    "Town" : "Tal-Madliena Barra x-Xagħra, Malta",
+    "Latitude" : "36.050845",
+    "Longitude" : "14.267482",
+    "GoogleAddress" : "Xaghra, Malta"
+}, {
+    "Town" : "Tal-Markiż, Malta",
+    "Latitude" : "35.8845071",
+    "Longitude" : "14.3897392",
+    "GoogleAddress" : "Tal-Markiż, Ir-Rabat, Malta"
+}, {
+    "Town" : "Tal-Menħir Estate, Kirkop, Malta",
+    "Latitude" : "35.8437862",
+    "Longitude" : "14.4854324",
+    "GoogleAddress" : "Hal Kirkop, Malta"
+}, {
+    "Town" : "Tal-Milord, Malta",
+    "Latitude" : "35.8818444",
+    "Longitude" : "14.5455585",
+    "GoogleAddress" : "Triq San Leonardu, Ix-Xgħajra, Malta"
+}, {
+    "Town" : "Tal-Mirakli, Lija, Malta",
+    "Latitude" : "35.8988302",
+    "Longitude" : "14.4448611",
+    "GoogleAddress" : "Tal-Mirakli, Malta"
+}, {
+    "Town" : "Tal-Palma, Mgarr, Malta",
+    "Latitude" : "35.9189327",
+    "Longitude" : "14.3617343",
+    "GoogleAddress" : "Mgarr, Malta"
+}, {
+    "Town" : "Tal-Papa, Birzebbuga, Malta",
+    "Latitude" : "35.8183605",
+    "Longitude" : "14.5240182",
+    "GoogleAddress" : "Tal-Papa, Birżebbuġa, Malta"
+}, {
+    "Town" : "Tal-Plier, Zabbar, Malta",
+    "Latitude" : "35.8722531",
+    "Longitude" : "14.5414943",
+    "GoogleAddress" : "Tal-Plier, Ħaż-Żabbar, Malta"
+}, {
+    "Town" : "Tal-Providenza, Siggiewi, Malta",
+    "Latitude" : "35.8374345",
+    "Longitude" : "14.4263691",
+    "GoogleAddress" : "Siggiewi, Malta"
+}, {
+    "Town" : "Tal-Qattus, Birkirkara, Malta",
+    "Latitude" : "35.8980021",
+    "Longitude" : "14.4730579",
+    "GoogleAddress" : "Tal-Qattus, Birkirkara, Malta"
+}, {
+    "Town" : "Tal-Qroqq, Msida, Malta",
+    "Latitude" : "35.9034069",
+    "Longitude" : "14.4874342",
+    "GoogleAddress" : "Msida, Malta"
+}, {
+    "Town" : "Tal-Wata, Malta",
+    "Latitude" : "35.9069406",
+    "Longitude" : "14.4222298",
+    "GoogleAddress" : "Wata, Il-Mosta, Malta"
+}, {
+    "Town" : "Tar-Rabbat, Hamrun, Malta",
+    "Latitude" : "35.8832356",
+    "Longitude" : "14.4847045",
+    "GoogleAddress" : "Tar-Rabbat, Hamrun, Malta"
+}, {
+    "Town" : "Tar-Ramel, Malta",
+    "Latitude" : "35.9886412",
+    "Longitude" : "14.3722809",
+    "GoogleAddress" : "Campsite 3 - Ahrax tar-Ramel, Triq Dahlet Ix-Xmajjar, Mellieha, Malta"
+}, {
+    "Town" : "Tarġa Gap, Mosta, Malta",
+    "Latitude" : "35.9175",
+    "Longitude" : "14.4138889",
+    "GoogleAddress" : "Targa Gap, Mosta, Malta"
+}, {
+    "Town" : "Tas-Salib, Malta",
+    "Latitude" : "35.899873",
+    "Longitude" : "14.498291",
+    "GoogleAddress" : "Sir Temi Zammit Ave, Ta' Xbiex, Malta"
+}, {
+    "Town" : "Tas-Salib tal-Għolja, Siggiewi, Malta",
+    "Latitude" : "35.8502319",
+    "Longitude" : "14.4166696",
+    "GoogleAddress" : "Siggiewi, Malta"
+}, {
+    "Town" : "Tas-Salvatur, Malta",
+    "Latitude" : "36.0663889",
+    "Longitude" : "14.2541667",
+    "GoogleAddress" : "Tas Salvatur, Żebbuġ, Malta"
+}, {
+    "Town" : "Tas-Sirena, Malta",
+    "Latitude" : "35.8888018",
+    "Longitude" : "14.5172528",
+    "GoogleAddress" : "Triq Juan B. Azzopardo, Senglea (l'Isla), Malta"
+}, {
+    "Town" : "Upper Garden (Fuq il-Ġonna), Swieqi, Malta",
+    "Latitude" : "35.8949004",
+    "Longitude" : "14.5121371",
+    "GoogleAddress" : "Upper Barrakka Gardens, 292 Triq Sant' Orsla, Valletta, Malta"
+}, {
+    "Town" : "Verdala, Bormla, Malta",
+    "Latitude" : "35.880599",
+    "Longitude" : "14.522358",
+    "GoogleAddress" : "Cospicua, Malta"
+}, {
+    "Town" : "Wardija, San Pawl il-Bahar, Malta",
+    "Latitude" : "35.9390386",
+    "Longitude" : "14.3937403",
+    "GoogleAddress" : "Il-Wardija, St Paul's Bay, Malta"
+}, {
+    "Town" : "Wied Fulija, Zurrieq, Malta",
+    "Latitude" : "35.8238745",
+    "Longitude" : "14.4599618",
+    "GoogleAddress" : "Wied Babu, Malta"
+}, {
+    "Town" : "Wied Ħesri, Malta",
+    "Latitude" : "35.8577528",
+    "Longitude" : "14.4341245",
+    "GoogleAddress" : "Wied Hesri, Is-Siġġiewi, Malta"
+}, {
+    "Town" : "Wied il-Bużbież, Malta",
+    "Latitude" : "35.9155058",
+    "Longitude" : "14.4250258",
+    "GoogleAddress" : "Wied Il- Ghasel, Malta"
+}, {
+    "Town" : "Wied il-Kbir, Qormi, Malta",
+    "Latitude" : "35.871603",
+    "Longitude" : "14.4767529",
+    "GoogleAddress" : "Wied il-Kbir, Triq Ħal Luqa, Qormi, Malta"
+}, {
+    "Town" : "Wied il-Lunzjata, Victoria, Malta",
+    "Latitude" : "36.0384877",
+    "Longitude" : "14.2355577",
+    "GoogleAddress" : "Ta Mulejja Lunzjata Mansions Il-Fontana - Gozo MT FNT, 1112, Il-Fontana, Malta"
+}, {
+    "Town" : "Wied is-Sewda, Qormi, Malta",
+    "Latitude" : "35.8764388",
+    "Longitude" : "14.4694186",
+    "GoogleAddress" : "Qormi, Malta"
+}, {
+    "Town" : "Wied iż-Żebbuġ, Malta",
+    "Latitude" : "36.0795327",
+    "Longitude" : "14.2296553",
+    "GoogleAddress" : "Triq Is-Sagħtrija, Iż-Żebbuġ, Malta"
+}, {
+    "Town" : "Wied iż-Żiju, Marsaskala, Malta",
+    "Latitude" : "35.8611111",
+    "Longitude" : "14.5508333",
+    "GoogleAddress" : "Wied iz-Ziju, Marsaskala, Malta"
+}, {
+    "Town" : "Wied iż-Żurrieq, Qrendi, Malta",
+    "Latitude" : "35.8206338",
+    "Longitude" : "14.4537704",
+    "GoogleAddress" : "Wied Iż-Żurrieq, Il-Qrendi, Malta"
+}, {
+    "Town" : "Wied Rini, Rabat, Malta",
+    "Latitude" : "36.0444992",
+    "Longitude" : "14.2362911",
+    "GoogleAddress" : "Il Wied, Ir-Rabat Għawdex, Malta"
+}, {
+    "Town" : "Wied ta' Baqqiegħa, Malta",
+    "Latitude" : "35.86737919999999",
+    "Longitude" : "14.4458384",
+    "GoogleAddress" : "Baqqiegha & Wied Ta', Ħaż-Żebbuġ, Malta"
+}, {
+    "Town" : "Wied ta' Ħal Mula, Haz-Zebbug, Malta",
+    "Latitude" : "35.8712346",
+    "Longitude" : "14.4469839",
+    "GoogleAddress" : "Haz-Zebbug, Malta"
+}, {
+    "Town" : "Wied ta' San Martin, Malta",
+    "Latitude" : "35.8835434",
+    "Longitude" : "14.399023",
+    "GoogleAddress" : "S.Martin, Ir-Rabat RBT 1300, Malta"
+}, {
+    "Town" : "Wied ta' Sant' Antnin, Malta",
+    "Latitude" : "35.86784189999999",
+    "Longitude" : "14.4444173",
+    "GoogleAddress" : "Wied Ta', Ħaż-Żebbuġ, Malta"
+}, {
+    "Town" : "Wied tal-Blata, Malta",
+    "Latitude" : "36.0280556",
+    "Longitude" : "14.3266667",
+    "GoogleAddress" : "Tal-Blata, Qala, Malta"
+}, {
+    "Town" : "Wied tal-Ħandaq, Qormi, Malta",
+    "Latitude" : "35.86958970000001",
+    "Longitude" : "14.4708743",
+    "GoogleAddress" : "Tal-Ħandaq, Qormi, Malta"
+}, {
+    "Town" : "Wied tal-Isperanza, Mosta, Malta",
+    "Latitude" : "35.909606",
+    "Longitude" : "14.4192728",
+    "GoogleAddress" : "4 Triq il-Kapella ta' l-Isperanza, Il-Mosta, Malta"
+}, {
+    "Town" : "Wied tal-Isqof, Rabat, Malta",
+    "Latitude" : "35.9079147",
+    "Longitude" : "14.4153848",
+    "GoogleAddress" : "Wied Ta'l- Isperanza, Il-Mosta, Malta"
+}, {
+    "Town" : "Wied tal-Qlejgħa (Chadwick Lakes), Mosta, Malta",
+    "Latitude" : "35.8973387",
+    "Longitude" : "14.3964692",
+    "GoogleAddress" : "Chadwick Lakes, Rabat, Malta"
+}, {
+    "Town" : "Xagħra Ħurija, Malta",
+    "Latitude" : "36.050845",
+    "Longitude" : "14.267482",
+    "GoogleAddress" : "Xaghra, Malta"
+}, {
+    "Town" : "Xagħra tal-Isqof, Rabat, Malta",
+    "Latitude" : "35.8854994",
+    "Longitude" : "14.373372",
+    "GoogleAddress" : "Rabat, Malta"
+}, {
+    "Town" : "Xemxija, San Pawl il-Bahar, Malta",
+    "Latitude" : "35.950551",
+    "Longitude" : "14.380172",
+    "GoogleAddress" : "Xemxija, St Paul's Bay, Malta"
+}, {
+    "Town" : "Xifer il-Kief, Mgarr, Malta",
+    "Latitude" : "35.9401295",
+    "Longitude" : "14.3544182",
+    "GoogleAddress" : "Xifer, Il-Mellieħa, Malta"
+}, {
+    "Town" : "Xrob l-Għagin, Marsaxlokk, Malta",
+    "Latitude" : "35.8431433",
+    "Longitude" : "14.5676786",
+    "GoogleAddress" : "Xrobb L-Ghagin Nature Park And Sustainable Development Centre, Marsaxlokk MXK 4080, Malta"
+}, {
+    "Town" : "Xwieki, Gharghur, Malta",
+    "Latitude" : "35.9189908",
+    "Longitude" : "14.4541343",
+    "GoogleAddress" : "Ix-Xwieki, Ħal Għargħur, Malta"
+}, {
+    "Town" : "Żebbiegħ, Mgarr, Malta",
+    "Latitude" : "35.9200536",
+    "Longitude" : "14.3799187",
+    "GoogleAddress" : "Żebbiegħ, Mgarr, Malta"
+}, {
+    "Town" : "Żonqor, Marsaskala, Malta",
+    "Latitude" : "35.867085",
+    "Longitude" : "14.573266",
+    "GoogleAddress" : "Żonqor, Malta"
+}, {
+    "Town" : "Ir-Rabat, Gozo",
+    "Latitude" : "36.0426891",
+    "Longitude" : "14.2425011",
+    "GoogleAddress" : "Victoria, Malta"
+}, {
+    "Town" : "Il-Fontana, Gozo",
+    "Latitude" : "36.0369053",
+    "Longitude" : "14.2352339",
+    "GoogleAddress" : "Fontana, Malta"
+}, {
+    "Town" : "Għajnsielem, Gozo",
+    "Latitude" : "36.02479659999999",
+    "Longitude" : "14.2802961",
+    "GoogleAddress" : "Ghajnsielem, Malta"
+}, {
+    "Town" : "L-Għarb, Gozo",
+    "Latitude" : "36.068909",
+    "Longitude" : "14.2018098",
+    "GoogleAddress" : "Gharb, Malta"
+}, {
+    "Town" : "L-Għasri, Gozo",
+    "Latitude" : "36.0668075",
+    "Longitude" : "14.2192475",
+    "GoogleAddress" : "Għasri, Malta"
+}, {
+    "Town" : "Ta' Kerċem, Gozo",
+    "Latitude" : "36.04479389999999",
+    "Longitude" : "14.2250605",
+    "GoogleAddress" : "Kerċem, Malta"
+}, {
+    "Town" : "Il-Munxar, Gozo",
+    "Latitude" : "36.0288058",
+    "Longitude" : "14.2250605",
+    "GoogleAddress" : "Munxar, Malta"
+}, {
+    "Town" : "In-Nadur, Gozo",
+    "Latitude" : "36.0447019",
+    "Longitude" : "14.2919273",
+    "GoogleAddress" : "Nadur, Malta"
+}, {
+    "Town" : "Il-Qala, Gozo",
+    "Latitude" : "36.0388628",
+    "Longitude" : "14.318101",
+    "GoogleAddress" : "Qala, Malta"
+}, {
+    "Town" : "San Lawrenz, Gozo",
+    "Latitude" : "36.0482955",
+    "Longitude" : "14.1959978",
+    "GoogleAddress" : "San Lawrenz, Malta"
+}, {
+    "Town" : "Ta' Sannat, Gozo",
+    "Latitude" : "36.0192643",
+    "Longitude" : "14.2599437",
+    "GoogleAddress" : "Sannat, Malta"
+}, {
+    "Town" : "Ix-Xagħra, Gozo",
+    "Latitude" : "36.050845",
+    "Longitude" : "14.267482",
+    "GoogleAddress" : "Xaghra, Malta"
+}, {
+    "Town" : "Ix-Xewkija, Gozo",
+    "Latitude" : "36.0299236",
+    "Longitude" : "14.2599437",
+    "GoogleAddress" : "Ix-Xewkija, Malta"
+}, {
+    "Town" : "Iż-Żebbuġ, Gozo",
+    "Latitude" : "36.0716403",
+    "Longitude" : "14.245408",
+    "GoogleAddress" : "Żebbuġ, Malta"
+}, {
+    "Town" : "Xlendi, Gozo",
+    "Latitude" : "36.031265",
+    "Longitude" : "14.217432",
+    "GoogleAddress" : "Xlendi, Malta"
+}, {
+    "Town" : "Ix-Xlendi, Gozo",
+    "Latitude" : "36.031265",
+    "Longitude" : "14.217432",
+    "GoogleAddress" : "Xlendi, Malta"
+}, {
+    "Town" : "Marsalforn, Gozo",
+    "Latitude" : "36.0717421",
+    "Longitude" : "14.2555828",
+    "GoogleAddress" : "Marsalforn, Żebbuġ, Malta"
+}, {
+    "Town" : "Santa Luċija, Gozo",
+    "Latitude" : "36.04167330000001",
+    "Longitude" : "14.2177943",
+    "GoogleAddress" : "Santa Lucija, Malta"
+}, {
+    "Town" : "Birbuba, L-Għarb, Gozo",
+    "Latitude" : "36.0643347",
+    "Longitude" : "14.2010833",
+    "GoogleAddress" : "Birbuba, Gharb, Malta"
+}, {
+    "Town" : "Borġ Għarib, Għajnsielem, Gozo",
+    "Latitude" : "36.0311556",
+    "Longitude" : "14.2882925",
+    "GoogleAddress" : "Borġ Għarib, Ghajnsielem, Malta"
+}, {
+    "Town" : "Iċ-Ċittadella, Victoria, Gozo",
+    "Latitude" : "36.0465151",
+    "Longitude" : "14.2397758",
+    "GoogleAddress" : "It-Telgħa tal-Belt, Ir-Rabat Għawdex, Malta"
+}, {
+    "Town" : "Daħlet Qorrot, Il-Qala, Gozo",
+    "Latitude" : "36.0496827",
+    "Longitude" : "14.3163866",
+    "GoogleAddress" : "Dahlet Qorrot Bay, Qala, Malta"
+}, {
+    "Town" : "Fort Chambray, Għajnsielem, Gozo",
+    "Latitude" : "36.0209908",
+    "Longitude" : "14.2916515",
+    "GoogleAddress" : "Ghajnsielem, Malta"
+}, {
+    "Town" : "Għajn Ħosna, Ix-Xagħra, Gozo",
+    "Latitude" : "36.050368",
+    "Longitude" : "14.277402",
+    "GoogleAddress" : "Xagħra, Malta"
+}, {
+    "Town" : "Għajn Lukin, Ix-Xagħra, Gozo",
+    "Latitude" : "36.0473977",
+    "Longitude" : "14.2565444",
+    "GoogleAddress" : "Ghajn Lukin, Ix-Xagħra, Malta"
+}, {
+    "Town" : "Għar ix-Xiħ, Għajnsielem, Gozo",
+    "Latitude" : "36.02479659999999",
+    "Longitude" : "14.2802961",
+    "GoogleAddress" : "Ghajnsielem, Malta"
+}, {
+    "Town" : "Ħondoq ir-Rummien, Il-Qala, Gozo",
+    "Latitude" : "36.02778900000001",
+    "Longitude" : "14.3242816",
+    "GoogleAddress" : "Hondoq Bay, Qala, Malta"
+}, {
+    "Town" : "Id-Dwejra, San Lawrenz, Gozo",
+    "Latitude" : "36.0535258",
+    "Longitude" : "14.1882246",
+    "GoogleAddress" : "San Lawrenz, Malta"
+}, {
+    "Town" : "Il-Qbajjar, Marsalforn, Gozo",
+    "Latitude" : "36.0770624",
+    "Longitude" : "14.2515702",
+    "GoogleAddress" : "Triq Ix-Xwejni, Iż-Żebbuġ, Malta"
+}, {
+    "Town" : "Il-Qortin, In-Nadur, Gozo",
+    "Latitude" : "36.0480556",
+    "Longitude" : "14.3022222",
+    "GoogleAddress" : "Il-Qortin Isopo, Nadur, Malta"
+}, {
+    "Town" : "Ix-Xwejni, Marsalforn, Gozo",
+    "Latitude" : "36.0768335",
+    "Longitude" : "14.2516001",
+    "GoogleAddress" : "Triq Ix-Xwejni, Iż-Żebbuġ, Malta"
+}, {
+    "Town" : "Kemmuna, Għajnsielem, Gozo",
+    "Latitude" : "36.0100996",
+    "Longitude" : "14.3355527",
+    "GoogleAddress" : "Comino, Malta"
+}, {
+    "Town" : "Kemmunett, Għajnsielem, Gozo",
+    "Latitude" : "36.01366420000001",
+    "Longitude" : "14.3199188",
+    "GoogleAddress" : "Cominotto‎, Malta"
+}, {
+    "Town" : "L-Imġarr, Għajnsielem, Gozo",
+    "Latitude" : "36.0245932",
+    "Longitude" : "14.2984703",
+    "GoogleAddress" : "Mgarr, Malta"
+}, {
+    "Town" : "Mġarr ix-Xini, Ta' Sannat, Gozo",
+    "Latitude" : "36.0204489",
+    "Longitude" : "14.2713234",
+    "GoogleAddress" : "Mgarr ix-Xini, Għajnsielem, Malta"
+}, {
+    "Town" : "Ir-Ramla l-Ħamra, Ix-Xagħra, Gozo",
+    "Latitude" : "36.0614643",
+    "Longitude" : "14.2841125",
+    "GoogleAddress" : "Ramla Beach, Malta"
+}, {
+    "Town" : "San Blas, In-Nadur, Gozo",
+    "Latitude" : "36.0572011",
+    "Longitude" : "14.3007422",
+    "GoogleAddress" : "San Blas Bay, Malta"
+}, {
+    "Town" : "Santu Pietru, L-Għarb, Gozo",
+    "Latitude" : "36.0605137",
+    "Longitude" : "14.1996303",
+    "GoogleAddress" : "Santu Pietru, Gharb, Malta"
+}, {
+    "Town" : "Ta' Bin Ġemma, In-Nadur, Gozo",
+    "Latitude" : "36.0433474",
+    "Longitude" : "14.2925957",
+    "GoogleAddress" : "Triq Wied Bingemma, Nadur NDR 1900, Malta"
+}, {
+    "Town" : "Ta' Ċenċ, Ta' Sannat, Gozo",
+    "Latitude" : "36.0218263",
+    "Longitude" : "14.2497686",
+    "GoogleAddress" : "Ta' Ċenċ, Sannat, Malta"
+}, {
+    "Town" : "Ta' Cordina, Għajnsielem, Gozo",
+    "Latitude" : "36.0250759",
+    "Longitude" : "14.2855901",
+    "GoogleAddress" : "Triq Ta' Cordina, Għajnsielem, Malta"
+}, {
+    "Town" : "Ta' Dbieġi, L-Għarb, Gozo",
+    "Latitude" : "36.0602078",
+    "Longitude" : "14.2006519",
+    "GoogleAddress" : "Triq Santu Pietru 50 L-Għarb MT GRB, 1507, Gharb, Malta"
+}, {
+    "Town" : "Ta' Għammar, L-Għasri, Gozo",
+    "Latitude" : "36.0668075",
+    "Longitude" : "14.2192475",
+    "GoogleAddress" : "Ta' Għammar, Għasri, Malta"
+}, {
+    "Town" : "Ta' Ħamet, Ix-Xagħra, Gozo",
+    "Latitude" : "36.0581741",
+    "Longitude" : "14.2686658",
+    "GoogleAddress" : "Xagħra, Malta"
+}, {
+    "Town" : "Ta' Kuxxina, In-Nadur, Gozo",
+    "Latitude" : "36.038714",
+    "Longitude" : "14.2979846",
+    "GoogleAddress" : "San Gakbu, Nadur NDR 8323, Malta"
+}, {
+    "Town" : "Ta' Nazzarenu, Ix-Xagħra, Gozo",
+    "Latitude" : "36.051015",
+    "Longitude" : "14.27478",
+    "GoogleAddress" : "Triq Gnien Xibla, Xaghra, gozo, Malta"
+}, {
+    "Town" : "Ta' Pinu, L-Għarb, Gozo",
+    "Latitude" : "36.0619707",
+    "Longitude" : "14.2148387",
+    "GoogleAddress" : "Gharb, Malta"
+}, {
+    "Town" : "Ta' Seguna, Ta' Sannat, Gozo",
+    "Latitude" : "36.0192643",
+    "Longitude" : "14.2599437",
+    "GoogleAddress" : "Sannat, Malta"
+}, {
+    "Town" : "Ta' Xħajma, In-Nadur, Gozo",
+    "Latitude" : "36.038714",
+    "Longitude" : "14.2979846",
+    "GoogleAddress" : "San Gakbu, Nadur NDR 8323, Malta"
+}, {
+    "Town" : "Taċ-Ċawla, Victoria, Malta, Gozo",
+    "Latitude" : "36.0364927",
+    "Longitude" : "14.241411",
+    "GoogleAddress" : "Taċ-Ċawla, Victoria, Malta"
+}, {
+    "Town" : "Tal-Barmil, Ix-Xewkija, Gozo",
+    "Latitude" : "36.033208",
+    "Longitude" : "14.2663639",
+    "GoogleAddress" : "Ix-Xewkija, Malta"
+}, {
+    "Town" : "Tal-Ħniena, Ix-Xewkija, Gozo",
+    "Latitude" : "36.0325421",
+    "Longitude" : "14.2680323",
+    "GoogleAddress" : "Triq San Bert, Xewkija, Malta"
+}, {
+    "Town" : "Tal-Ibraġ, Victoria, Gozo",
+    "Latitude" : "36.045885",
+    "Longitude" : "14.2394614",
+    "GoogleAddress" : "Triq Bieb l-Imdina, Ir-Rabat Għawdex, Malta"
+}, {
+    "Town" : "Tal-Kaċċaturi, Ix-Xagħra, Gozo",
+    "Latitude" : "36.050845",
+    "Longitude" : "14.267482",
+    "GoogleAddress" : "Xaghra, Malta"
+}, {
+    "Town" : "Wied il-Għasri, L-Għasri, Gozo",
+    "Latitude" : "36.0787685",
+    "Longitude" : "14.2284213",
+    "GoogleAddress" : "Wied Il-Għasri, Malta"
+}, {
+    "Town" : "Wied il-Lunzjata, Il-Fontana, Gozo",
+    "Latitude" : "36.0384877",
+    "Longitude" : "14.2355577",
+    "GoogleAddress" : "Ta Mulejja Lunzjata Mansions Il-Fontana - Gozo MT FNT, 1112, Il-Fontana, Malta"
+}, {
+    "Town" : "Wied il-Mielaħ, L-Għarb, Gozo",
+    "Latitude" : "36.0790243",
+    "Longitude" : "14.2129773",
+    "GoogleAddress" : "Gharb, Malta"
+}, {
+    "Town" : "Wied tal-Blata, Il-Qala, Gozo",
+    "Latitude" : "36.0280556",
+    "Longitude" : "14.3266667",
+    "GoogleAddress" : "Tal-Blata, Qala, Malta"
+}, {
+    "Town" : "Xatt l-Aħmar, Għajnsielem, Gozo",
+    "Latitude" : "36.0192779",
+    "Longitude" : "14.2901099",
+    "GoogleAddress" : "Xatt l-Ahmar, Ghajnsielem, Malta"
+}]
