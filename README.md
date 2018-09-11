@@ -4,13 +4,13 @@ The following is a list of towns in Malta, together with their Latitude/Longitud
 ## Instructions
 The two python modules provided, `json_output.py` and `md_output.py`, query the Google Maps API for Latitude/Longitude coordinates and respectively generate output files in JSON and markdown formats. A working Python 3 installation together with the [Geopy](https://geopy.readthedocs.io/) package are required.
 
-To generate the JSON file, navigate in the terminal to the repository directory and simply write
+To generate the JSON file, pull the repository, navigate in a terminal to the pulled directory and simply write
 
 ```
 python json_output.py
 ```
 
-or `python md_output.py` for the markdown output. The output files generated should match the contents of the `output.json` and `output.md` files provided.
+and similarly `python md_output.py` for the markdown output. The output files generated should match the contents of the `output.json` and `output.md` files provided.
 
 
 ## Table of Towns
