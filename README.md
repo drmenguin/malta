@@ -14,7 +14,7 @@ and similarly `python md_output.py` for the markdown output. The output files ge
 
 
 ## Table of Towns
-For convenience, the contents of `output.md` are presented below.
+For convenience, the contents of `output.md` are presented below. Note that some of them are incorrect.
 
 | *City or Town* | *What Google Maps API Recognised* | * Coordinates * |
 |:--------------:|:---------------------------------:|:---------------:|
