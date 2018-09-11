@@ -1,0 +1,350 @@
+################################################################################
+##                          TOWNS AND CITIES OF MALTA                         ##
+##                          drmenguin - GPLv3 License                         ##
+################################################################################
+
+List Adapted from:
+https://web.archive.org/web/20180911203230/https://en.wikipedia.org/wiki/List_of_towns_in_Malta
+
+Il-Belt Valletta, Malta
+L-Imdina, Malta
+Il-Birgu, Malta
+L-Isla, Malta
+Bormla, Malta
+Ħal Qormi, Malta
+Ħaż-Żebbuġ, Malta
+Ħaż-Żabbar, Malta
+Is-Siġġiewi, Malta
+Iż-Żejtun, Malta
+Ħ'Attard, Malta
+Ħal Balzan, Malta
+Birkirkara, Malta
+Birżebbuġa, Malta
+Ħad-Dingli, Malta
+Il-Fgura, Malta
+Il-Furjana, Malta
+Il-Gudja, Malta
+Il-Gżira, Malta
+Ħal Għargħur, Malta
+Ħal Għaxaq, Malta
+Il-Ħamrun, Malta
+L-Iklin, Malta
+Il-Kalkara, Malta
+Ħal Kirkop, Malta
+Ħal Lija, Malta
+Ħal Luqa, Malta
+Il-Marsa, Malta
+Marsaskala, Malta
+Marsaxlokk, Malta
+Il-Mellieħa, Malta
+L-Imġarr, Malta
+Il-Mosta, Malta
+L-Imqabba, Malta
+L-Imsida, Malta
+In-Naxxar, Malta
+Raħal Ġdid, Malta
+Pembroke, Malta
+Tal-Pietà, Malta
+Il-Qrendi, Malta
+Ir-Rabat, Malta
+Ħal Safi, Malta
+San Ġiljan, Malta
+San Ġwann, Malta
+San Pawl il-Bahar, Malta
+Santa Luċija, Malta
+Santa Venera, Malta
+Tas-Sliema, Malta
+Is-Swieqi, Malta
+Ta' Xbiex, Malta
+Ħal Tarxien, Malta
+Ix-Xgħajra, Malta
+Iż-Żurrieq, Malta
+L-Imtarfa, Malta
+Baħar iċ-Ċagħaq, Malta
+Baħrija, Malta
+Bubaqra, Malta
+Burmarrad, Malta
+Fleur de Lys, Malta
+Gwardamanġa, Malta
+Ħal Farruġ, Malta
+Madliena, Malta
+Paceville, Malta
+Kappara, Malta
+San Pietru, Żabbar, Malta
+Swatar, Malta
+Tal-Virtù, Rabat, Malta
+L-Abatija, Imġarr, Malta
+Bulebel iż-Żgħir, Żabbar, Malta
+Albert Town, Marsa, Malta
+L-Armier, Mellieħa, Malta
+Il-Ballut, Imġarr, Malta
+Il-Balluta, San Ġiljan, Malta
+Baqqari, Zurrieq, Malta
+Belt-is-Sebħ, Floriana, Malta
+Bengħajsa, Birżebbuġa, Malta
+Il-Beżbiżija, Mosta, Malta
+Il-Bidni, Marsaskala, Malta
+Il-Bidnija, Malta
+Bieb ir-Ruwa, Rabat, Malta
+Binġemma, Imġarr, Malta
+Birguma, Naxxar, Malta
+Bir id-Deheb, Żejtun, Malta
+Il-Blata l-Bajda, Ħamrun, Malta
+Il-Bokka taċ-Ċarcara, Imġarr, Malta
+Buġibba, San Pawl il-Baħar, Malta
+Bulebel, Żejtun, Malta
+Buqana, Rabat, Malta
+Il-Buskett, Ħad-Dingli, Malta
+Iċ-Ċanta, Rabat, Malta
+Iċ-Ċens l-Iswed, Malta
+Iċ-Ċirkewwa, Malta
+Delimara, Malta
+Id-Dwejra, Rabat, Malta
+Faqqanija, Malta
+Il-Fawwara, Siġġiewi, Malta
+Fomm ir-Riħ, Imġarr, Malta
+Fuq San Pawl, Bormla, Malta
+Fuq Tal-Blat, Ħal Qormi, Malta
+Ġebel Ciantar, Siġġiewi, Malta
+Ġebel l-Abjad, Malta
+Ġebel San Martin, Żejtun, Malta
+Ġnejna Bay, Imġarr, Malta
+Ġnien Borg, Malta
+Ġnien Fieres, Malta
+Ġnien San Pawl, Malta
+Il-Girgenti, Siġġiewi, Malta
+Il-Gwiedi, Malta
+L-Għadira, Mellieħa, Malta
+Għajn Astas, San Pawl il-Baħar, Malta
+Għajn Dwieli, Malta
+Għajn il-Kbira, Malta
+Għajn Kajjet, Rabat, Malta
+Għajn Klieb, Rabat, Malta
+Għajn Tajba, Rabat, Malta
+Għajn Tuffieħa, Malta
+L-Għallis, Naxxar, Malta
+L-Għemieri, Rabat, Malta
+Għar ix-Xiħ, Malta
+Għar Lapsi, Siġġiewi, Malta
+Għar Żerriegħa, Malta
+Ħaġar Qim, Qrendi, Malta
+Ħal Dmikki, Ħal Għaxaq, Malta
+Ħal Dragu, Burmarrad, Malta
+Ħal Far, Malta
+Ħal Tmiem, Żejtun, Malta
+Ħas-Saptan, Ħal Għaxaq, Malta
+Ħlantun, Malta
+Il-Ħofra tar-Ritz, Malta
+Il-Ħrieri, Żebbuġ, Malta
+Il-Ħbula, Ħad-Dingli, Malta
+Il-Ħfar, Malta
+Il-Kalkara, Il-Baħrija, Malta
+Il-Katakombi, Rabat, Malta
+Il-Ponta, Malta
+Kalafrana, Birżebbuġa, Malta
+Kordin, Paola, Malta
+Il-Kunċizzjoni, Rabat, Malta
+L-Aħrax, Mellieha, Malta
+L-Erba' Qaddisin, Ħal Qormi, Malta
+Limbordin, San Pawl il-Baħar, Malta
+Lippija, Imġarr, Malta
+Il-Lunzjata, Rabat, Malta
+Il-Magħtab, In-Naxxar, Malta
+Il-Manikata, Il-Mellieħa, Malta
+Manoel Island, Il-Gżira, Malta
+Il-Marfa, Il-Mellieħa, Malta
+Il-Marnisi, Birżebbuġa, Malta
+L-Imġiebaħ, Il-Mellieħa, Malta
+Misraħ Kola, Ħ'Attard, Malta
+Il-Miżieb, Il-Mellieħa, Malta
+L-Imrieħel, Birkirkara, Malta
+L-Imselliet, L-Imġarr, Malta
+L-Imtaħleb, Rabat, Malta
+In-Nadur, Malta
+In-Nigret, Iż-Żurrieq, Malta
+Il-Pwales, San Pawl il-Baħar, Malta
+Il-Qajjenza, Birżebbuġa, Malta
+Il-Qattara, Malta
+Il-Qawra, San Pawl il-Baħar, Malta
+Qerd in-Naħal, Malta
+Raba' Nemel, Rabat, Malta
+Ras il-Wied, L-Imġarr, Malta
+Ricasoli, Il-Kalkara, Malta
+Is-Salina, In-Naxxar, Malta
+San Ġwann t'Għuxa, Bormla, Malta
+San Lawrenz tal-Għolja, Is-Siġġiewi, Malta
+San Martin, San Pawl il-Baħar, Malta
+San Niklaw, Il-Qrendi, Malta
+San Pawl tat-Tarġa, In-Naxxar, Malta
+Sant' Anton, Ħ'Attard, Malta
+Santa Katerina, Rabat, Malta
+Santa Margarita, Il-Mosta, Malta
+Santa Marija Estate, Il-Mellieħa, Malta
+Is-Santi, L-Imġarr, Malta
+Is-Saqqajja, Rabat, Malta
+Is-Sgħajtar, Il-Mosta, Malta
+L-Iskrivit, L-Imġarr, Malta
+Il-Bajja ta' San Ġorġ, San Ġiljan, Malta
+Il-Bajja ta' San Tumas, Marsaskala, Malta
+Ta' Barkat, Ix-Xgħajra, Malta
+Ta' Brija, Is-Siġġiewi, Malta
+Ta' Frajna, Malta
+Ta' Ganza, Iż-Żejtun, Malta
+Ta' Giorni, San Giljan, Malta
+Ta' Ġawhar, Malta
+Ta' Għadajma, Malta
+Ta' Ħaramija, Malta
+Ta' Ħemsija, Malta
+Ta' Kandja, Is-Siġġiewi, Malta
+Ta' Lampat, Malta
+Ta' Landrijiet, Rabat, Malta
+Ta' Lanza, Malta
+Ta' Laurenti, Rabat, Malta
+Ta' Loretu, Il-Gudja, Malta
+Ta' Mlit, Il-Mosta, Malta
+Ta' Mrejnu, L-Imġarr, Malta
+Ta' Newma, Malta
+Ta' Ngħajsa, Malta
+Ta' Paris, Birkirkara, Malta
+Ta' Pascarella, Ħal Qormi, Malta
+Ta' Pennellu, Il-Mellieħa, Malta
+Ta' Qali, Attard, Malta
+Ta' Rbazza, Malta
+Ta' Rużarju, Malta
+Ta' Tewma, Mgarr, Malta
+Ta' Xurraf, Malta
+Ta' Żgamardi, Malta
+Ta' Żokkrija, Mosta, Malta
+Ta' Żwejt, San Gwann, Malta
+Tal-Bebbux, Zurrieq, Malta
+Tal-Blajjiet, Marsaskala, Malta
+Tal-Boxxla, Malta
+Tal-Bujjar, Marsaskala, Malta
+Tal-Ferħa, Gharghur, Malta
+Tal-Fuklar, Attard, Malta
+Tal-Ibraġ, Swieqi, Malta
+Tal-Għadir, Malta
+Tal-Għaqba, Malta
+Tal-Għolja, Siggiewi, Malta
+Tal-Ħamri, Malta
+Tal-Ħandaq, Qormi, Malta
+Tal-Ħawli, Birgu, Malta
+Tal-Kaccaturi, Malta
+Tal-Kanuni, Malta
+Tal-Karwija, Malta
+Tal-Landier, Malta
+Tal-Laqnija, Malta
+Tal-Madliena Barra x-Xagħra, Malta
+Tal-Markiż, Malta
+Tal-Menħir Estate, Kirkop, Malta
+Tal-Milord, Malta
+Tal-Mirakli, Lija, Malta
+Tal-Palma, Mgarr, Malta
+Tal-Papa, Birzebbuga, Malta
+Tal-Plier, Zabbar, Malta
+Tal-Providenza, Siggiewi, Malta
+Tal-Qattus, Birkirkara, Malta
+Tal-Qroqq, Msida, Malta
+Tal-Wata, Malta
+Tar-Rabbat, Hamrun, Malta
+Tar-Ramel, Malta
+Tarġa Gap, Mosta, Malta
+Tas-Salib, Malta
+Tas-Salib tal-Għolja, Siggiewi, Malta
+Tas-Salvatur, Malta
+Tas-Sirena, Malta
+Tat-Tabija, Malta
+Tat-Tilliera, Malta
+Upper Garden (Fuq il-Ġonna), Swieqi, Malta
+Verdala, Bormla, Malta
+Wardija, San Pawl il-Bahar, Malta
+Wied Fulija, Zurrieq, Malta
+Wied Gerżuma, Malta
+Wied Ħazrun, Malta
+Wied Ħesri, Malta
+Wied il-Bużbież, Malta
+Wied il-Kbir, Qormi, Malta
+Wied il-Lunzjata, Victoria, Malta
+Wied is-Sewda, Qormi, Malta
+Wied iż-Żebbuġ, Malta
+Wied iż-Żiju, Marsaskala, Malta
+Wied iż-Żurrieq, Qrendi, Malta
+Wied Rini, Rabat, Malta
+Wied ta' Baqqiegħa, Malta
+Wied ta' Ħal Mula, Haz-Zebbug, Malta
+Wied ta' San Martin, Malta
+Wied ta' Sant' Antnin, Malta
+Wied tal-Blata, Malta
+Wied tal-Ħandaq, Qormi, Malta
+Wied tal-Isperanza, Mosta, Malta
+Wied tal-Isqof, Rabat, Malta
+Wied tal-Qlejgħa (Chadwick Lakes), Mosta, Malta
+Wied tat-Troll, Malta
+Wied Xkora, Malta
+Xagħra Ħurija, Malta
+Xagħra tal-Isqof, Rabat, Malta
+Xemxija, San Pawl il-Bahar, Malta
+Xifer il-Kief, Mgarr, Malta
+Xrob l-Għagin, Marsaxlokk, Malta
+Xwieki, Gharghur, Malta
+Żebbiegħ, Mgarr, Malta
+Żonqor, Marsaskala, Malta
+Ir-Rabat, Gozo
+Il-Fontana, Gozo
+Għajnsielem, Gozo
+L-Għarb, Gozo
+L-Għasri, Gozo
+Ta' Kerċem, Gozo
+Il-Munxar, Gozo
+In-Nadur, Gozo
+Il-Qala, Gozo
+San Lawrenz, Gozo
+Ta' Sannat, Gozo
+Ix-Xagħra, Gozo
+Ix-Xewkija, Gozo
+Iż-Żebbuġ, Gozo
+Xlendi, Gozo
+Ix-Xlendi, Gozo
+Marsalforn, Gozo
+Santa Luċija, Gozo
+Birbuba, L-Għarb, Gozo
+Borġ Għarib, Għajnsielem, Gozo
+Iċ-Ċittadella, Victoria, Gozo
+Daħlet Qorrot, Il-Qala, Gozo
+Fort Chambray, Għajnsielem, Gozo
+Għajn Ħosna, Ix-Xagħra, Gozo
+Għajn Lukin, Ix-Xagħra, Gozo
+Għar ix-Xiħ, Għajnsielem, Gozo
+Ħondoq ir-Rummien, Il-Qala, Gozo
+Id-Dwejra, San Lawrenz, Gozo
+Il-Qbajjar, Marsalforn, Gozo
+Il-Qortin, In-Nadur, Gozo
+Ix-Xwejni, Marsalforn, Gozo
+Kemmuna, Għajnsielem, Gozo
+Kemmunett, Għajnsielem, Gozo
+L-Imġarr, Għajnsielem, Gozo
+Mġarr ix-Xini, Ta' Sannat, Gozo
+Ir-Ramla l-Ħamra, Ix-Xagħra, Gozo
+San Blas, In-Nadur, Gozo
+Santu Pietru, L-Għarb, Gozo
+Ta' Bin Ġemma, In-Nadur, Gozo
+Ta' Ċenċ, Ta' Sannat, Gozo
+Ta' Cordina, Għajnsielem, Gozo
+Ta' Dbieġi, L-Għarb, Gozo
+Ta' Għammar, L-Għasri, Gozo
+Ta' Ħamet, Ix-Xagħra, Gozo
+Ta' Kuxxina, In-Nadur, Gozo
+Ta' Nazzarenu, Ix-Xagħra, Gozo
+Ta' Pinu, L-Għarb, Gozo
+Ta' Seguna, Ta' Sannat, Gozo
+Ta' Xħajma, In-Nadur, Gozo
+Taċ-Ċawla, Victoria, Malta, Gozo
+Tal-Barmil, Ix-Xewkija, Gozo
+Tal-Ħniena, Ix-Xewkija, Gozo
+Tal-Ibraġ, Victoria, Gozo
+Tal-Kaċċaturi, Ix-Xagħra, Gozo
+Wied il-Għasri, L-Għasri, Gozo
+Wied il-Lunzjata, Il-Fontana, Gozo
+Wied il-Mielaħ, L-Għarb, Gozo
+Wied tal-Blata, Il-Qala, Gozo
+Xatt l-Aħmar, Għajnsielem, Gozo
