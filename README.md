@@ -1,5 +1,5 @@
 # Towns in Malta
-The following is a list of towns in Malta, together with their Latitude/Longitude coordinates. These were obtained using Google's geolocator service GoogleV3 together with geopy (python). The list of places itself is taken from [this wikipedia article](https://web.archive.org/web/20180911203230/https://en.wikipedia.org/wiki/List_of_towns_in_Malta).
+The following is a list of towns in Malta, together with their Latitude/Longitude coordinates. These were obtained using Google's geolocator service GoogleV3 together with geopy (python). The list of places itself is taken from [this wikipedia article](https://web.archive.org/web/20180911203230/https://en.wikipedia.org/wiki/List_of_towns_in_Malta), and is provided in the repository as `towns.txt`.
 
 ## Instructions
 The two python modules provided, `json_output.py` and `md_output.py`, query the Google Maps API for Latitude/Longitude coordinates and respectively generate output files in JSON and markdown formats. A working Python 3 installation together with the [Geopy](https://geopy.readthedocs.io/) package are required. Additionally, a Google Maps API key will be necessary to generate the output files. You can obtain a key by starting a free trial [here](https://cloud.google.com/maps-platform/); then simply replace `ENTER_YOUR_KEY_HERE` in the python modules with your own key.
