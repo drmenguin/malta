@@ -18,7 +18,7 @@ Since some of the towns obtained are matched with incorrect coordinates, a trunc
 ## Table of Towns
 For convenience, the contents of `output.md` are presented below. Note that some of them are incorrect.
 
-| *City or Town* | *What Google Maps API Recognised* | * Coordinates * |
+| *City or Town* | *What Google Maps API Recognised* | *Coordinates* |
 |:--------------:|:---------------------------------:|:---------------:|
 | Il-Belt Valletta, Malta | Valletta, Malta | 35.8989085, 14.5145528 |
 | L-Imdina, Malta | Mdina, Malta | 35.888093, 14.4068357 |
