@@ -12,6 +12,8 @@ python json_output.py
 
 and similarly `python md_output.py` for the markdown output. The output files generated should match the contents of the `output.json` and `output.md` files provided.
 
+Since some of the towns obtained are matched with incorrect coordinates, a truncated file `output_valid.json` is provided containing only valid results.
+
 
 ## Table of Towns
 For convenience, the contents of `output.md` are presented below. Note that some of them are incorrect.
